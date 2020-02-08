@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+    background-image: url(bg_stars.gif);
+    background-repeat: repeat;
+}
+#space-jam {
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    width: 496px;
+    height: 420px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    /*margin: -212px 0 0 -250px;
+    /*margin-top: -212px;
+    margin-left: -250px;
+    margin-bottom: 0px;
+    margin-right: 0px;  */
+}
+
+/*#container {
+    border: 1px solid red;
+    position: relative;
+    height: 500px;
+    width: 60%;
+    margin: 0 auto;
+    resize: both;
+}*/
